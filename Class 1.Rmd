@@ -1,8 +1,7 @@
 ---
-title: "R for data science class 1"
-author: "Mushambo Godfrey"
-date: "2025-10-16"
+title: "Class 1"
 output: html_document
+date: "2025-10-16"
 ---
 # Calculator in r
 # Data importation in R
