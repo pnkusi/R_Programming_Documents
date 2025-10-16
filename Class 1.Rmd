@@ -1,8 +1,10 @@
 ---
 title: "Class 1"
-output: html_document
+author: "Paulin Nkusi"
 date: "2025-10-16"
+output: html_document
 ---
+
 # Calculator in r
 # Data importation in R
 # Data description using numerical measures and graphs.

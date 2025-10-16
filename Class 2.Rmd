@@ -331,7 +331,6 @@ detach(leadership)
 
 
 ```{r}
-install.packages("nycflights13")
 
 
 ```

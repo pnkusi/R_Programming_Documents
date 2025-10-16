@@ -1,7 +1,8 @@
 ---
-title: "Class 4"
-output: html_document
+title: "Class4"
+author: "Paulin Nkusi"
 date: "2025-10-16"
+output: html_document
 ---
 
 ```{r}
